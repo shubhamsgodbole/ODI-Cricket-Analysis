@@ -4,16 +4,22 @@ In this comprehensive project, the focus was on analyzing the optimal playing el
 Here is a demo of the final PowerBI dashboard:
 
 ### 1. Top Order Analysis
-![Top Order](Dashboard-Demo-images/Screenshot%202024-10-22%20163423.png)
+![Top Order] (Dashboard-Demo-images/Screenshot 2024-10-22 163423.png)
 
-### 2. Middle Order Analysis
-![Middle Order with Tooltip](Dashboard-Demo-images/Screenshot%202024-10-22%20163758.png)
+### 2. Top Order Analysis with Tooltip
+![Top Order with Tooltip] (Dashboard-Demo-images/Screenshot 2024-10-22 163630.png)
 
-### 3. Wicket Keeper Analysis
-![WK Analysis](Dashboard-Demo-images/Screenshot%202024-10-22%20163923.png)
+### 3. Middle Order Analysis with Tooltip
+![Middle Order with Tooltip] (Dashboard-Demo-images/Screenshot 2024-10-22 163758.png)
 
-### 4. Bowling Unit Analysis
-![Bowling Analysis](Dashboard-Demo-images/Screenshot%202024-10-22%20164011.png)
+### 4. Middle Order Individual Analysis
+![Middle Order Individual] (Dashboard-Demo-images/Screenshot 2024-10-22 163829.png)
+
+### 5. Wicket Keeper Analysis
+![WK Analysis] (Dashboard-Demo-images/Screenshot 2024-10-22 163923.png)
+
+### 6. Bowling Unit Analysis
+![Bowling Analysis] (Dashboard-Demo-images/Screenshot 2024-10-22 164011.png)
 
 Given the presence of numerous inconsistencies in the initial dataset, extensive data preprocessing using the Pandas library in Python was undertaken to ensure data integrity and cleanliness. Moreover, an in-depth Exploratory Data Analysis (EDA) was performed to unearth valuable patterns, trends, and correlations within the dataset. Delving deeper into player selection, critical factors such as recent form, historical performances, match conditions, and individual player roles were carefully considered. This analysis culminated in the strategic selection of four batsmen for the top order, two all-rounders, one wicketkeeper, and four bowlers, forming the optimal playing eleven.
 
